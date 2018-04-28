@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "anshnagrath",
+  "license": "ISC"
+}

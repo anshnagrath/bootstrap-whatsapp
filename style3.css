@@ -1,0 +1,68 @@
+
+@media screen and (min-width:1200px )and (max-width:1400px) {
+   
+html,
+body,
+span {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  padding: 0;
+  /* margin: 0; */
+  box-sizing: border-box;
+}
+
+body {
+  background: url("http://shurl.esy.es/y") no-repeat fixed center;
+  background-size: cover;
+
+}
+img,#me{
+margin-left: 400px !important;
+}
+}
+
+@media screen and (min-width:750px )and (max-width:1199px) {
+   
+    html,
+    body,
+    span {
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
+      padding: 0;
+      /* margin: 0; */
+      box-sizing: border-box;
+    }
+    
+    body {
+      background: url("http://shurl.esy.es/y") no-repeat fixed center;
+      background-size: cover;
+    
+    }
+    img,#me{
+    margin-left: 250px !important;
+    }
+    }
+    @media screen and (min-width:480px )and (max-width:749px) {
+   
+        html,
+        body,
+        span {
+          height: 100%;
+          width: 100%;
+          overflow: hidden;
+          padding: 0;
+          /* margin: 0; */
+          box-sizing: border-box;
+        }
+        
+        body {
+          background: url("http://shurl.esy.es/y") no-repeat fixed center;
+          background-size: cover;
+        
+        }
+        img,#me{
+        margin-left: 150px !important;
+        }
+        }
